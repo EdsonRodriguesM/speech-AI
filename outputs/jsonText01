@@ -1,0 +1,83 @@
+{
+    "documents": [
+        {
+            "id": "id__2110",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.01,
+                "neutral": 0.11,
+                "negative": 0.88
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.92,
+                        "negative": 0.03
+                    },
+                    "offset": 0,
+                    "length": 63,
+                    "text": "The most important hour of the day is the last one before bed.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.01
+                    },
+                    "offset": 63,
+                    "length": 44,
+                    "text": "What you do here determines what’s to come…\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 107,
+                    "length": 67,
+                    "text": "This period alone can make or break your prospects for the future.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.11,
+                        "negative": 0.88
+                    },
+                    "offset": 174,
+                    "length": 36,
+                    "text": "If you get it wrong, you’re doomed.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.93,
+                        "negative": 0.06
+                    },
+                    "offset": 210,
+                    "length": 99,
+                    "text": "One study found that the behaviors enacted directly before bedtime are coded into long-term memory.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
